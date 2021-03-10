@@ -40,7 +40,7 @@
                  "value":"..\/Floor1\/floor1.json"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
@@ -58,7 +58,7 @@
                  "value":"..\/Lyon\/lyon.json"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
@@ -74,6 +74,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/garticphone.com\/de"
+                }, 
+                {
+                 "name":"openWebsitePolicy",
+                 "type":"string",
+                 "value":"fullscreen"
                 }],
          "type":"tilelayer",
          "visible":true,
