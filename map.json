@@ -78,7 +78,7 @@
                 {
                  "name":"openWebsitePolicy",
                  "type":"string",
-                 "value":"fullscreen"
+                 "value":"fullscreen 'src'"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
